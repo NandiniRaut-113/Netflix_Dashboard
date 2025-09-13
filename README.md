@@ -95,3 +95,11 @@ To create an **interactive Power BI dashboard** that helps visualize:
 ## 🖼️ Dashboard Preview
 
 <img width="569" height="313" src="https://github.com/NandiniRaut-113/Netflix_Dashboard/blob/main/Netflix's%20Dashboard%20Image%20.jpg" />
+
+
+## 👨‍💻 About the Creator
+
+👤 **Nandini Raut**  
+Computer Engineering Graduate  
+Focused on turning data into meaningful insights.
+
