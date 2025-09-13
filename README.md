@@ -94,4 +94,4 @@ To create an **interactive Power BI dashboard** that helps visualize:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview]<img width="569" height="313" alt="hr_analytics_dashboard_ss" src="https://github.com/user-attachments/assets/3c982b14-648b-43e5-b932-02f8ccad73b9" />
+<img width="569" height="313" alt="hr_analytics_dashboard_ss, align= "center" src="https://github.com/NandiniRaut-113/Netflix_Dashboard/blob/main/Netflix_dashboard_image.jpeg" />
