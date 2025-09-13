@@ -6,7 +6,7 @@ This project is a Power BI dashboard designed to provide insights into Netflix�
 
 The Netflix Analysis Dashboard is a visually interactive Power BI report designed to help users explore and analyze Netflix’s content library. The dashboard highlights key metrics such as the distribution of movies and TV shows, release year trends, genre diversity, country-wise availability, and audience ratings. This tool is intended for use by media analysts, entertainment enthusiasts, content strategists, and data-driven decision makers who seek to understand viewing patterns, regional content strengths, and overall catalog composition on Netflix.
 
-📊 Dashboard Highlights
+## 📊 Dashboard Highlights
 
 -  **Total Titles:** 8,807
 
